@@ -4,6 +4,11 @@
 
 <h1 align="center">gyokuro</h1>
 
+<p align="center">
+  <strong>An unofficial, independent app for <a href="https://about.gitea.com">Gitea</a> and <a href="https://forgejo.org">Forgejo</a>.</strong><br>
+  Not affiliated with, developed, endorsed or reviewed by the maintainers of Gitea and Forgejo.
+</p>
+
 <p align="center"><strong>Your Gitea and Forgejo, in hand.</strong></p>
 
 <p align="center">
@@ -24,8 +29,9 @@
 
 ---
 
-> gyokuro is an independent, unofficial community client. It is not part of the official
-> Gitea or Forgejo projects — with respect and thanks to the team that builds and maintains it.
+> gyokuro is a community project by Sven Hanold. It is not part of the official Gitea and Forgejo
+> projects. The names Gitea and Forgejo are used here only to say what this app connects to —
+> with respect and thanks to the people who build and maintain them.
 
 ## Screenshots
 
